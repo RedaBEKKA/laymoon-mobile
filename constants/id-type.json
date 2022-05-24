@@ -1,0 +1,93 @@
+[{
+    "id": 2,
+    "description": "Casier judiciaire"
+},
+{
+    "id": 4,
+    "description": "Enregistrement de la société"
+},
+{
+    "id": 6,
+    "description": "CV"
+},
+{
+    "id": 7,
+    "description": "Déclaration sous serment"
+},
+{
+    "id": 8,
+    "description": "Chiffre d'affaires"
+},
+{
+    "id": 9,
+    "description": "Carte d'identité"
+},
+{
+    "id": 11,
+    "description": "Relevé d'identité bancaire"
+},
+{
+    "id": 12,
+    "description": "Un justificatif de domicile"
+},
+{
+    "id": 13,
+    "description": "Facture de téléphone portable"
+},
+{
+    "id": 14,
+    "description": "Facture, autre que la facture de téléphone portable"
+},
+{
+    "id": 15,
+    "description": "Un titre de séjour"
+},
+{
+    "id": 16,
+    "description": "Un permis de conduire"
+},
+{
+    "id": 17,
+    "description": "Un passeport"
+},
+{
+    "id": 18,
+    "description": "Une procuration accordant un employé"
+},
+{
+    "id": 19,
+    "description": "Un document officiel d'enregistrement de la société"
+},
+{
+    "id": 20,
+    "description": "Attestation fiscale officielle"
+}
+,{
+    "id": 21,
+    "description": "Avis de paiement de l'employé"
+},
+{
+    "id": 22,
+    "description": "Relevé bancaire de l'utilisateur"
+},
+{
+    "id": 23,
+    "description": "Statut juridique de l'entreprise"
+},
+{
+    "id": 24,
+    "description": "Déclaration d'impôt"
+},
+{
+    "id": 25,
+    "description": "Déclaration d'exemption"
+},
+{
+    "id": 26,
+    "description": "Résultat de vivacité"
+},
+{
+    "id": 27,
+    "description": "Carte d'assurance maladie"
+}
+]
